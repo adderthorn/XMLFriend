@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1537019468"/>
+  <Params Value=" -MObjFPC -Scaghi -Cg -CirotR -O1 -gw2 -godwarfsets -gl -gh -Xg -gt -l -vewnhibq -Fi/home/noahw/Documents/form_normalizer/lib/x86_64-linux -Fu/home/noahw/.lazarus/lib/SynEdit/units/x86_64-linux/gtk2 -Fu/home/noahw/.lazarus/lib/LazControls/lib/x86_64-linux/gtk2 -Fu/home/noahw/.lazarus/lib/units/x86_64-linux/gtk2 -Fu/home/noahw/.lazarus/lib/LCLBase/units/x86_64-linux -Fu/home/noahw/.lazarus/lib/LazUtils/lib/x86_64-linux -Fu/home/noahw/.lazarus/lib/units/x86_64-linux -Fu/home/noahw/Documents/form_normalizer/ -FU/home/noahw/Documents/form_normalizer/lib/x86_64-linux/ -oXMLFriend -dLCL -dLCLgtk2 FormNormalizer.lpr"/>
+</CONFIG>
